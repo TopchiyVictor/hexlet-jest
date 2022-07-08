@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopchiyVictor/hexlet-jest.git"
+  },
+  "author": "Topchiy Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopchiyVictor/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/TopchiyVictor/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
